@@ -1,7 +1,7 @@
 SOM9331
 =======
 
-Collection of documents for the OpenEmbed SOM9331
+Collection of documents for the OpenEmbed SOM9331 module. This is based on the Atheros AR9331 module and can run OpenWRT. 
 
 This has:
 - MIPS 24K processor operating at up to 400 Mhz.
