@@ -7,7 +7,7 @@ This has:
 - MIPS 24K processor operating at up to 400 Mhz.
 - DD2 memory up to 512 Mb.
 - SPI NOR Flash memory up to 64Mb.
-- 4LAN ports and 1 WAN port
+- 4 LAN ports and 1 WAN port
 - High-speed UART for console support
 - I2S audio interface
 - USB 2.0 host/device mode support
